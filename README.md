@@ -5,7 +5,8 @@ Ce test à pour but de valider des connaissances en en vueJs/js
 
 ##### Installation
 
-Cloner le dépos et créer une branche en local
+Forker ce repo
+et proposer votre repo en public pour validation
 
 ##### Règles 
 
