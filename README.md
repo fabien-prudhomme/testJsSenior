@@ -1,5 +1,5 @@
 # Chamboulle tout
-### Test JS front Junior
+### Test JS front Senior
 
 Ce test à pour but de valider des connaissances en en vueJs/js
 
